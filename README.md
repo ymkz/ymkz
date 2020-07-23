@@ -1,4 +1,4 @@
-<div style="font-size:52px;font-weight:800;">Catch the Wind.</div>
+# Catch the wind.
 
 <br />
 
