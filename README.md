@@ -30,10 +30,10 @@ Master of Engineering.
 Social account is here, get in touch with me.  
 Twitter DM is open.  
 
-[![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/ymkz)
-[![](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/ymkz)
-[![](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://facebook.com/ymkzly)
-[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ymkz)
+[![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ymkz)
+[![](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ymkz)
+[![](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ymkzly)
+[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ymkz)
 
 <br />
 
