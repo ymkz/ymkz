@@ -4,7 +4,7 @@
 
 I'm Kazuya Yamashita. a.k.a ymkz.  
 24y/o, based in Tokyo, Japan.  
-Working as a web engineer mainly DevOps, good at web frontend.  
+Working as a web engineer, good at web frontend.
 
 [![](https://img.shields.io/badge/-React-black?style=for-the-badge)](https://ymkz.co)
 [![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge)](https://ymkz.co)
@@ -19,7 +19,7 @@ Working as a web engineer mainly DevOps, good at web frontend.
 <br />
 
 Majored in computer science, studied human-computer interaction with face/eye tracking.  
-Master of Engineering.  
+Master of Engineering.
 
 - Shimane University
 - Bachelor: 2014.4 - 2018.3
@@ -28,7 +28,7 @@ Master of Engineering.
 <br />
 
 Social account is here, get in touch with me.  
-Twitter DM is open.  
+Twitter DM is open.
 
 [![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ymkz)
 [![](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ymkz)
@@ -38,7 +38,7 @@ Twitter DM is open.
 <br />
 
 I Like Sleeping, Walking, Padding, Sci-Fi, FPS Games.  
-Play games seriously with fun.  
+Play games seriously with fun.
 
 - ARIA
 - Harmony
