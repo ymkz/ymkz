@@ -3,44 +3,27 @@
 <br />
 
 I'm Kazuya Yamashita. a.k.a ymkz.  
-24y/o, based in Tokyo, Japan.  
-Working as a web engineer, good at web frontend.
+a web engineer, good at web frontend.  
+sleep, walk and write code.  
 
-[![](https://img.shields.io/badge/-React-black?style=for-the-badge)](https://ymkz.co)
+[![](https://img.shields.io/badge/-Frontend-black?style=for-the-badge)](https://ymkz.co)
 [![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge)](https://ymkz.co)
 [![](https://img.shields.io/badge/-Node.js-black?style=for-the-badge)](https://ymkz.co)
-[![](https://img.shields.io/badge/-Next.js-black?style=for-the-badge)](https://ymkz.co)
-[![](https://img.shields.io/badge/-React_Native-black?style=for-the-badge)](https://ymkz.co)
-[![](https://img.shields.io/badge/-Redux-black?style=for-the-badge)](https://ymkz.co)
-[![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge)](https://ymkz.co)
-[![](https://img.shields.io/badge/-HTML5-black?style=for-the-badge)](https://ymkz.co)
-[![](https://img.shields.io/badge/-CSS3-black?style=for-the-badge)](https://ymkz.co)
+[![](https://img.shields.io/badge/-SRE-black?style=for-the-badge)](https://ymkz.co)
 
 <br />
 
-Majored in computer science, studied human-computer interaction with face/eye tracking.  
-Master of Engineering.
-
+Univ
 - Shimane University
-- Bachelor: 2014.4 - 2018.3
-- Master: 2018.4 - 2020.3
+- Bachelor: 2014.04 - 2018.03
+- Master: 2018.04 - 2020.03
+
+Job
+- Dev/Ops: 2020.04 - 2022.09
+- Dev/SRE: 2022.10 -
 
 <br />
-
-Social account is here, get in touch with me.  
-Twitter DM is open.
 
 [![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ymkz)
 [![](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ymkz)
-[![](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ymkzly)
 [![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ymkz)
-
-<br />
-
-I Like Sleeping, Walking, Padding, Sci-Fi, FPS Games.  
-Play games seriously with fun.
-
-- ARIA
-- Harmony
-- Overwatch
-- PUBG
