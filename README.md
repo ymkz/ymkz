@@ -26,5 +26,3 @@ Job
 <br />
 
 [![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ymkz)
-[![](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ymkz)
-[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ymkz)
