@@ -3,8 +3,8 @@
 <br />
 
 I'm Kazuya Yamashita. a.k.a ymkz.  
-a web engineer, working as SRE, good at web frontend.
-sleep, walk and write code.  
+A web engineer.
+Sleep, walk and write code.  
 
 [![](https://img.shields.io/badge/-Frontend-black?style=for-the-badge)](https://ymkz.co)
 [![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge)](https://ymkz.co)
@@ -21,7 +21,8 @@ Univ
 Job
 - Dev(intern): 2016.07 - 2019.07
 - Dev/Ops: 2020.04 - 2022.09
-- Dev/SRE: 2022.10 -
+- Dev/SRE: 2022.10 - 2025.03
+- Dev: 2025.04 - 
 
 <br />
 
