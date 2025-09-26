@@ -2,9 +2,9 @@
 
 <br />
 
-I'm Kazuya Yamashita. a.k.a ymkz.  
-A web engineer.
-Sleep, walk and write code.  
+I'm Kazuya Yamashita. a.k.a ymkz.\
+A web engineer.\
+Sleep, walk and write code.
 
 [![](https://img.shields.io/badge/-Frontend-black?style=for-the-badge)](https://ymkz.co)
 [![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge)](https://ymkz.co)
